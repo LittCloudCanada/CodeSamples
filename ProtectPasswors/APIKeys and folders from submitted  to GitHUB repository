@@ -1,0 +1,4 @@
+
+This this an example code of the .gitingore file in the workspace or folder that you are working on
+.env > exclude API keys and Passwords
+/node_modules Exclude entire thifolder
